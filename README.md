@@ -1,1 +1,10 @@
 # Hotel-Booking-Dashboard
+The Hotel Booking Dashboard is a powerful data visualization tool created using Microsoft Power BI. It provides comprehensive insights into hotel bookings, allowing hotel managers and stakeholders to make informed decisions and optimize their operations. This dashboard incorporates various features, also you can see KPIs by city or resort view.
+I have used 9 different KPIs for viewer to understand the dashboard properly. You can see my report in 2 pages.
+I have used charts like donut chart, stacked column chart, waterfall chart, line and stacked column chart, stacked area chart, tree map, line chart and pie chart.
+Used features like page navigation, different DAX formulas for better visualization.
+🏨 Key Features :
+📈 Interactive Visualizations: Uncover trends and patterns with ease!
+⏭️ Functional and User-Friendly: Seamlessly explore data with an intuitive interface.
+🧭 Easy-to-Use Filters: Dive deep into the data with just a few clicks!Hello ! The Hotel Booking Dashboard is a powerful data visualization tool created using Microsoft Power BI. It provides comprehensive insights into hotel bookings, allowing hotel managers and stakeholders to make informed decisions and optimize their operations. This dashboard incorporates various features, also you can see KPIs by city or resort view. I have used 9 different KPIs for viewer to understand the dashboard properly. You can see my report in 2 pages. I have used charts like donut chart, stacked column chart, waterfall chart, line and stacked column chart, stacked area chart, tree map, line chart and pie chart. Used features like page navigation, different DAX formulas for better visualization. 🏨 Key Features : 📈 Interactive Visualizations: Uncover trends and patterns with ease! ⏭️ Functional and User-Friendly: Seamlessly explore data with an intuitive interface. 🧭 Easy-to-Use Filters: Dive deep into the data with just a few clicks!
+Skills: DAX · Data Analytics · Microsoft Power Query · data analyst · Data Visualization · Data Analysis · powerbi
